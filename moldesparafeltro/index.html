@@ -8,6 +8,252 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-NRP3VMHK');</script>
 <!-- End Google Tag Manager -->
+
+	<div class="elementor-widget-container">
+    <script>
+const delayEmSegundosVagas = 1;
+const delayEmSegundosCompras = 1;
+const manterVagasVisiveis = false;
+
+const compras = [
+{
+    nome: "Vanessa R.",
+    tempo: "45 minutos",
+    pagamento: "cartão de crédito",
+},
+{
+    nome: "Raquel Silveira",
+    tempo: "22 minutos",
+    pagamento: "cartão de crédito",
+},
+{
+    nome: "Roberta Cavalcante",
+    tempo: "32 minutos",
+    pagamento: "cartão de crédito",
+},
+{
+    nome: "Ana R.",
+    tempo: "12 minutos",
+    pagamento: "Pix",
+},
+{
+    nome: "Marcela F.",
+    tempo: "51 minutos",
+    pagamento: "cartão de débito",
+},
+{
+    nome: "Juliana D.",
+    tempo: "37 minutos",
+    pagamento: "cartão de crédito",
+},
+]
+
+</script>
+
+<style>
+:root {
+--cor-de-destaque: #f00;
+}
+
+
+
+
+#views b,
+#vagas b {
+color: var(--cor-de-destaque);
+}
+
+
+#vagas{
+display: none;
+}
+
+
+#views {
+max-width: 800px;
+margin: auto;
+line-height: 1.4;
+}
+
+#toast-compras {
+position: fixed;
+right: 20px;
+bottom: 20px;
+z-index: 1000;
+background-color: #FFF;
+padding: 10px 20px;
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 20px;
+border-radius: 5px;
+box-shadow: 1px 1px 5px #00000036;
+transform: translateY(calc(100% + 40px));
+transition: all .3s ease;
+opacity: 0
+}
+#toast-compras.show {
+transform: none;
+opacity: 1
+}
+#toast-compras * {
+font-family: "Roboto", sans-serif
+}
+#toast-compras svg {
+width: 40px;
+height: 40px;
+fill: #11F849;
+border: 3px solid #11F849;
+padding: 5px;
+border-radius: 100px
+}
+#toast-compras .textos .linha-1 {
+display: flex;
+gap: 20px;
+align-items: center;
+margin: 0 0 5px
+}
+#toast-compras .textos .linha-1 .nome {
+font-size: 16px;
+font-weight: 500;
+line-height: 16px;
+color: #1b1b1b;
+margin: 0
+}
+#toast-compras .textos .linha-1 .tempo {
+font-size: 14px;
+font-weight: 400;
+line-height: 14px;
+color: #7a7a7a;
+margin: 0
+}
+#toast-compras .textos .pagamento {
+font-size: 16px;
+line-height: 1;
+color: #7a7a7a;
+margin: 0
+}
+
+</style>
+
+
+
+<div id="toast-compras" class="">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 96.01 447.98 319.97">
+<path d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z"></path>
+</svg>
+
+<div class="textos">
+<div class="linha-1">
+    <p class="nome">Raquel Silveira</p>
+    <p class="tempo">há 22 minutos</p>
+</div>
+<p class="pagamento">comprou no cartão de crédito</p>
+</div>
+</div>
+
+
+
+<script>
+setTimeout(() => {
+configurarVagas();
+}, delayEmSegundosVagas * 1000)
+
+setTimeout(() => {
+mostrarToast();
+}, delayEmSegundosCompras * 1000)
+
+
+document.addEventListener('DOMContentLoaded', function(){
+inserirData();
+configurarViews();
+
+if(manterVagasVisiveis) exibirVagas();
+})
+
+
+
+function inserirLocalizacao() {
+fetch("https://wtfismyip.com/json").then(res => res.json().then((data) => {
+    const cidade = data.YourFuckingLocation.split(',')[0];
+    
+    document.querySelector('span#address').innerHTML = `de <b>${cidade}</b>`;
+}))
+}
+
+function exibirVagas(){
+document.querySelector('#vagas').style.display = "block";
+}
+
+function configurarVagas() {
+exibirVagas();
+const vagasInterval = setInterval(() => {
+    const vagasElement = document.querySelector('#vagas b')
+    const vagas = Number(vagasElement.innerText);
+    
+    if(vagas >= 100) {
+        vagasElement.innerText = vagas - randomNumber(3, 8);
+    } else if(vagas >= 30) {
+        vagasElement.innerText = vagas - randomNumber(1, 3);
+    } else if(vagas >= 4) {
+        vagasElement.innerText = vagas - 1;
+    } else {
+        clearInterval(vagasInterval);
+    }
+    
+}, randomNumber(4, 8) * 1000);
+}
+
+function configurarViews() {
+const viewsInterval = setInterval(() => {
+    const viewsElement = document.querySelector('#views b.qtd');
+    const views = Number(viewsElement.innerText);
+    
+    if(views <= 500) {
+        viewsElement.innerText = views + randomNumber(3, 8);
+    } else if(views >= 2300) {
+        viewsElement.innerText = views + randomNumber(-5, 5);
+    } else {
+        viewsElement.innerText = views + randomNumber(-3, 12);
+    }
+    
+}, 5 * 1000);
+}
+
+function mostrarToast() {
+configurarToast()
+document.querySelector('#toast-compras').classList.add('show');
+
+setTimeout(() => {
+    document.querySelector('#toast-compras').classList.remove('show');
+    
+    setTimeout(() => {
+        mostrarToast();
+    }, randomNumber(5, 10) * 1000)
+}, 2500);
+}
+
+function configurarToast() {
+document.querySelector('#toast-compras .nome').innerText = compras[0].nome;
+document.querySelector('#toast-compras .tempo').innerText = `há ${compras[0].tempo}`;
+document.querySelector('#toast-compras .pagamento').innerText = `comprou no ${compras[0].pagamento}`;
+
+compras.push(compras.shift());
+}
+
+function randomNumber(min, max) {
+min = Math.ceil(min);
+max = Math.floor(max);
+return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
+
+function inserirData() {
+const data = new Date().toLocaleDateString();
+document.querySelector('#views b.date').innerText = data;
+}
+
+</script>		</div>
 	
 	<meta charset="UTF-8">
 			<title>Moldes Para Feltro</title>
