@@ -3,90 +3,67 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Produtos</title>
+    <title>Promoção Encerrada</title>
     <style>
-        /* Estilo do corpo da página */
+        /* Estilo básico para centralizar o conteúdo */
         body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
             font-family: Arial, sans-serif;
             background-color: #f5f5f5;
-            margin: 0;
-            padding-top: 60px; /* Espaço para o cabeçalho fixo */
         }
 
-        /* Estilo do cabeçalho fixo */
-        .header {
-            position: fixed;
-            top: 0;
-            width: 100%;
-            background-color: #0053fe;
-            color: #fff;
-            text-align: center;
-            padding: 15px 0;
-            font-size: 18px;
-            font-weight: bold;
-            z-index: 1000;
-        }
-
-        /* Estilo do container de cada produto */
-        .product-container {
-            text-align: center;
+        /* Caixa da mensagem */
+        .notification-box {
             background-color: #fff;
             padding: 20px;
-            margin: 20px auto;
-            border-radius: 8px;
+            border: 1px solid #ddd;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            width: 100%;
+            border-radius: 8px;
+            text-align: center;
             max-width: 400px;
         }
 
-        /* Estilo da imagem do produto */
-        .product-container img {
-            width: 100%;
-            border-radius: 8px;
+        /* Título da mensagem */
+        .notification-box h1 {
+            color: #e74c3c;
+            font-size: 24px;
+            margin: 0;
         }
 
-        /* Estilo do botão */
-        .product-container a {
-            display: inline-block;
-            padding: 12px 24px;
-            margin-top: 15px;
+        /* Texto da mensagem */
+        .notification-box p {
+            color: #555;
             font-size: 16px;
+            margin-top: 10px;
+        }
+
+        /* Botão de ação */
+        .notification-box a {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 10px 20px;
             color: #fff;
-            background-color: #0053fe;
+            background-color: #3498db;
             text-decoration: none;
             border-radius: 4px;
-            transition: background-color 0.3s;
+            font-size: 16px;
         }
 
         /* Efeito hover no botão */
-        .product-container a:hover {
+        .notification-box a:hover {
             background-color: #2980b9;
         }
     </style>
 </head>
 <body>
 
-    <!-- Cabeçalho fixo -->
-    <div class="header">
-        Faça seu pedido novamente abaixo
-    </div>
-
-    <!-- Produto 1 -->
-    <div class="product-container">
-        <img src="https://promo.vagalimitada.com/moldesparafeltro/wp-content/uploads/2024/10/500-moldes-para-feltro-768x768.png" alt="Produto 1">
-        <a href="/moldesparafeltro/" target="_blank">Comprar Agora</a>
-    </div>
-
-    <!-- Produto 2 -->
-    <div class="product-container">
-        <img src="imagem-produto2.jpg" alt="Produto 2">
-        <a href="https://link-produto2.com" target="_blank">Comprar Agora</a>
-    </div>
-
-    <!-- Produto 3 -->
-    <div class="product-container">
-        <img src="imagem-produto3.jpg" alt="Produto 3">
-        <a href="https://link-produto3.com" target="_blank">Comprar Agora</a>
+    <div class="notification-box">
+        <h1>Promoção Encerrada</h1>
+        <p>A promoção do produto que você solicitou foi encerrada.</p>
     </div>
 
 </body>
