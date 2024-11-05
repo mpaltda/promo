@@ -3,46 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Promoção Encerrada</title>
+    <title>Produtos</title>
     <style>
-        /* Estilo para centralizar o conteúdo */
+        /* Estilo da página */
         body {
             display: flex;
             justify-content: center;
             align-items: center;
             flex-direction: column;
-            min-height: 100vh;
-            margin: 0;
             font-family: Arial, sans-serif;
             background-color: #f5f5f5;
-            color: #333;
+            margin: 0;
+            padding: 20px;
         }
 
-        /* Container principal */
-        .promo-container {
+        /* Estilo do container de cada produto */
+        .product-container {
             text-align: center;
             background-color: #fff;
             padding: 20px;
+            margin-bottom: 20px;
             border-radius: 8px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 100%;
             max-width: 400px;
         }
 
-        /* Imagem do produto */
-        .promo-container img {
+        /* Estilo da imagem do produto */
+        .product-container img {
             width: 100%;
             border-radius: 8px;
         }
 
-        /* Mensagem */
-        .promo-container h2 {
-            font-size: 20px;
-            margin: 15px 0;
-            color: #e74c3c;
-        }
-
-        /* Botão */
-        .promo-container a {
+        /* Estilo do botão */
+        .product-container a {
             display: inline-block;
             padding: 12px 24px;
             margin-top: 15px;
@@ -55,24 +49,32 @@
         }
 
         /* Efeito hover no botão */
-        .promo-container a:hover {
+        .product-container a:hover {
             background-color: #2980b9;
         }
     </style>
 </head>
 <body>
 
-    <div class="promo-container">
-        <!-- Imagem do produto -->
-        <img src="imagem-do-produto.jpg" alt="Produto em Promoção">
-
-        <!-- Mensagem de promoção encerrada -->
-        <h2>Promoção Encerrada</h2>
-        <p>Infelizmente, a promoção deste produto foi encerrada. Tente fazer seu pedido novamente!</p>
-
-        <!-- Botão para voltar à página de vendas -->
-        <a href="https://link-da-pagina-de-vendas.com" target="_blank">Comprar Agora</a>
+    <!-- Produto 1 -->
+    <div class="product-container">
+        <img src="imagem-produto1.jpg" alt="Produto 1">
+        <a href="https://link-produto1.com" target="_blank">Comprar Agora</a>
     </div>
+
+    <!-- Produto 2 -->
+    <div class="product-container">
+        <img src="imagem-produto2.jpg" alt="Produto 2">
+        <a href="https://link-produto2.com" target="_blank">Comprar Agora</a>
+    </div>
+
+    <!-- Produto 3 -->
+    <div class="product-container">
+        <img src="imagem-produto3.jpg" alt="Produto 3">
+        <a href="https://link-produto3.com" target="_blank">Comprar Agora</a>
+    </div>
+
+    <!-- Adicione mais produtos copiando o bloco "product-container" acima -->
 
 </body>
 </html>
