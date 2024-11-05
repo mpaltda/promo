@@ -5,16 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Produtos</title>
     <style>
-        /* Estilo da página */
+        /* Estilo do corpo da página */
         body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-direction: column;
             font-family: Arial, sans-serif;
             background-color: #f5f5f5;
             margin: 0;
-            padding: 20px;
+            padding-top: 60px; /* Espaço para o cabeçalho fixo */
+        }
+
+        /* Estilo do cabeçalho fixo */
+        .header {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            background-color: #0053fe;
+            color: #fff;
+            text-align: center;
+            padding: 15px 0;
+            font-size: 18px;
+            font-weight: bold;
+            z-index: 1000;
         }
 
         /* Estilo do container de cada produto */
@@ -22,7 +32,7 @@
             text-align: center;
             background-color: #fff;
             padding: 20px;
-            margin-bottom: 20px;
+            margin: 20px auto;
             border-radius: 8px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             width: 100%;
@@ -42,7 +52,7 @@
             margin-top: 15px;
             font-size: 16px;
             color: #fff;
-            background-color: #3498db;
+            background-color: #0053fe;
             text-decoration: none;
             border-radius: 4px;
             transition: background-color 0.3s;
@@ -55,6 +65,11 @@
     </style>
 </head>
 <body>
+
+    <!-- Cabeçalho fixo -->
+    <div class="header">
+        Faça seu pedido novamente abaixo
+    </div>
 
     <!-- Produto 1 -->
     <div class="product-container">
@@ -73,8 +88,6 @@
         <img src="imagem-produto3.jpg" alt="Produto 3">
         <a href="https://link-produto3.com" target="_blank">Comprar Agora</a>
     </div>
-
-    <!-- Adicione mais produtos copiando o bloco "product-container" acima -->
 
 </body>
 </html>
