@@ -1,0 +1,308 @@
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\scripts\utms\latest.js
+Content Type: text/javascript
+
+Uri: https://cursoline.shop/camarao29/
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\camarao29\index.htm
+Content Type: text/html
+
+Uri: https://cursoline.shop/comments/feed/
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://cursoline.shop/feed/
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://cursoline.shop/wp-content/cache/perfmatters/cursoline.shop/css/page-3737.used.css?ver=1731306856
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\cache\perfmatters\cursoline.shop\css\page-3737.used.css
+Content Type: text/css
+
+Uri: https://cursoline.shop/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.18.3
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://cursoline.shop/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.18.3
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://cursoline.shop/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.18.3
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://cursoline.shop/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.18.3
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://cursoline.shop/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://cursoline.shop/wp-content/plugins/wp-content-copy-protector/images/warning.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\plugins\wp-content-copy-protector\images\warning.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/plugins/wp-rocket/assets/js/heartbeat.js?ver=3.12.4
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\plugins\wp-rocket\assets\js\heartbeat.js
+Content Type: application/javascript
+
+Uri: https://cursoline.shop/wp-content/plugins/wp-rocket/assets/js/lazyload/17.5/lazyload.min.js
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\plugins\wp-rocket\assets\js\lazyload\17.5\lazyload.min.js
+Content Type: application/javascript
+
+Uri: https://cursoline.shop/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_italic_400.woff2
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_italic_400.woff2
+Content Type: font/woff2
+
+Uri: https://cursoline.shop/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_400.woff2
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_normal_400.woff2
+Content Type: font/woff2
+
+Uri: https://cursoline.shop/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_700.woff2
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_normal_700.woff2
+Content Type: font/woff2
+
+Uri: https://cursoline.shop/wp-content/themes/twentytwentyfour/assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\themes\twentytwentyfour\assets\fonts\inter\Inter-VariableFont_slnt,wght.woff2
+Content Type: font/woff2
+
+Uri: https://cursoline.shop/wp-content/uploads/2023/12/QUERO-MINHA-PROMOCAO-4-1.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2023\12\QUERO-MINHA-PROMOCAO-4-1.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/1-2-150x150.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\1-2-150x150.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/1-2.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\1-2.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/10-150x150.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\10-150x150.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/10.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\10.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/13.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\13.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/154_Camarao_Grande-1024x685.jpg
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\154_Camarao_Grande-1024x685.jpg
+Content Type: image/jpeg
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/154_Camarao_Grande-300x201.jpg
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\154_Camarao_Grande-300x201.jpg
+Content Type: image/jpeg
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/154_Camarao_Grande-768x514.jpg
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\154_Camarao_Grande-768x514.jpg
+Content Type: image/jpeg
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/154_Camarao_Grande.jpg
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\154_Camarao_Grande.jpg
+Content Type: image/jpeg
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/2-2-150x150.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\2-2-150x150.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/2-2.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\2-2.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/3-150x150.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\3-150x150.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/3.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\3.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/4-150x150.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\4-150x150.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/4.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\4.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/6-150x150.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\6-150x150.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/6.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\6.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/8-150x150.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\8-150x150.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/8.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\8.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/Compra-300x23.webp
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\Compra-300x23.webp
+Content Type: image/webp
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/Compra-768x60.webp
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\Compra-768x60.webp
+Content Type: image/webp
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/Compra.webp
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\Compra.webp
+Content Type: image/webp
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/criacao-e-cultivo-de-camarao.jpg
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\criacao-e-cultivo-de-camarao.jpg
+Content Type: image/jpeg
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/G1-300x45.webp
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\G1-300x45.webp
+Content Type: image/webp
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/G1-768x115.webp
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\G1-768x115.webp
+Content Type: image/webp
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/G1.webp
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\G1.webp
+Content Type: image/webp
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/google_safe_2x-300.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\google_safe_2x-300.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/MACA-_3_-300x60.webp
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\MACA-_3_-300x60.webp
+Content Type: image/webp
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/MACA-_3_-768x154.webp
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\MACA-_3_-768x154.webp
+Content Type: image/webp
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/MACA-_3_.webp
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\MACA-_3_.webp
+Content Type: image/webp
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/MODELOS-E-MONTAGEM-150x150.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\MODELOS-E-MONTAGEM-150x150.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/MODELOS-E-MONTAGEM.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\MODELOS-E-MONTAGEM.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/notas.jpg
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\notas.jpg
+Content Type: image/jpeg
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/QUERO-MINHA-PROMOCAO-15.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\QUERO-MINHA-PROMOCAO-15.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/risco-zero-nuno.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\risco-zero-nuno.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/selo-mec-01.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\selo-mec-01.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/Selo-Menor-Preto-1024x80-1.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\Selo-Menor-Preto-1024x80-1.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/selos-seguranca-1024x206-1.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\selos-seguranca-1024x206-1.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/SIM.jpg
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\SIM.jpg
+Content Type: image/jpeg
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/08/site_protegido_277.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\08\site_protegido_277.png
+Content Type: image/png
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/11/Curso-e-Projeto-_1_-150x150.webp
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\11\Curso-e-Projeto-_1_-150x150.webp
+Content Type: image/webp
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/11/Curso-e-Projeto-_1_-300x300.webp
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\11\Curso-e-Projeto-_1_-300x300.webp
+Content Type: image/webp
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/11/Curso-e-Projeto-_1_-768x768.webp
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\11\Curso-e-Projeto-_1_-768x768.webp
+Content Type: image/webp
+
+Uri: https://cursoline.shop/wp-content/uploads/2024/11/Curso-e-Projeto-_1_.webp
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2024\11\Curso-e-Projeto-_1_.webp
+Content Type: image/webp
+
+Uri: https://cursoline.shop/wp-content/uploads/elementor/css/post-3737.css?ver=1731306764
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\elementor\css\post-3737.css
+Content Type: text/css
+
+Uri: https://cursoline.shop/wp-content/uploads/elementor/css/post-9.css?ver=1703939937
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\elementor\css\post-9.css
+Content Type: text/css
+
+Uri: https://cursoline.shop/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://cursoline.shop/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cursoline.shop/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://cursoline.shop/wp-json/
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://cursoline.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fcursoline.shop%2Fcamarao29%2F
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://cursoline.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fcursoline.shop%2Fcamarao29%2F&format=xml
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://cursoline.shop/wp-json/wp/v2/pages/3737
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-json\wp\v2\pages\3737
+Content Type: application/json
+
+Uri: https://cursoline.shop/xmlrpc.php?rsd
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://images.converteai.net/0ad300b6-ed9a-4a19-bc5c-087bc6d1dd45/players/66f6fd997a9fee000b8872d8/thumbnail.jpg
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\0ad300b6-ed9a-4a19-bc5c-087bc6d1dd45\players\66f6fd997a9fee000b8872d8\thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://plrprofissional.com/wp-content/uploads/2019/09/icone-checklist-02.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2019\09\icone-checklist-02.png
+Content Type: image/png
+
+Uri: https://vivabemsemlactoseegluten.com.br/wp-content/uploads/2021/10/Design-sem-nome-90.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2021\10\Design-sem-nome-90.png
+Content Type: image/png
+
+Uri: https://vivabemsemlactoseegluten.com.br/wp-content/uploads/2021/10/tick.png
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\wp-content\uploads\2021\10\tick.png
+Content Type: image/png
+
+Uri: https://www.facebook.com/tr?id=1586822542099106&ev=PageView&noscript=1
+File Name: C:\Users\Note Ryzen\Downloads\Sites-Clone\cursoline.shop\tr
+Content Type: text/plain
+
