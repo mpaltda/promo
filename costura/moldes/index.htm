@@ -1,8 +1,9 @@
 ﻿<!DOCTYPE html>
 <html lang="pt-PT">
 <head>
+<script>let already_runned = false;function getParams() {return new URLSearchParams(window.location.search).toString();}document.addEventListener("DOMContentLoaded", function() {if (!already_runned) {already_runned = true;let params = getParams();if (params) {document.querySelectorAll("a").forEach(function(e) {if (e.href) {if (e.href.includes("?")) {e.href += "&" + params;} else {e.href += "?" + params;}}});}}});</script>
 	<meta charset="UTF-8">
-		<title>Pacote Moldes 2024 &#8211; Moldes Pronto</title>
+		<title>Pacote Moldes 2024</title>
 <meta name='robots' content='max-image-preview:large'>
 <link rel="alternate" type="application/rss+xml" title="Moldes Pronto &raquo; Feed" href="../feed/index.htm">
 <link rel="alternate" type="application/rss+xml" title="Moldes Pronto &raquo; Feed de comentários" href="../comments/feed/index.htm">
