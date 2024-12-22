@@ -1,7 +1,94 @@
 ﻿<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
+	
+<section class="elementor-section elementor-top-section elementor-element elementor-element-4055416a elementor-hidden-desktop elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4055416a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default" bis_skin_checked="1">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-842d05b" data-id="842d05b" data-element_type="column" bis_skin_checked="1">
+			<div class="elementor-widget-wrap elementor-element-populated" bis_skin_checked="1">
+						<div class="elementor-element elementor-element-6e780e38 elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-html" data-id="6e780e38" data-element_type="widget" data-widget_type="html.default" bis_skin_checked="1">
+				<div class="elementor-widget-container" bis_skin_checked="1">
+					
 
+  <style>
+    .text {
+      text-align: center;
+      font-family: "Montserrat", Sans-serif;
+      font-size: 18px;
+      font-weight: 600;
+      color: white;
+        }
+  </style>
+
+
+  <div class="text" bis_skin_checked="1">
+   <div style="line-height: 1.0;" bis_skin_checked="1"> Hoje <span style="color: #00000099;"><span id="date">22/12/24</span></span> é o último<br> dia com valor Promocional!
+  </div>
+  <script>
+    const currentDate = new Date();
+    const day = currentDate.getDate().toString().padStart(2, '0');
+    const month = (currentDate.getMonth() + 1).toString().padStart(2, '0');
+    const year = currentDate.getFullYear().toString().substr(-2);
+    document.getElementById('date').innerHTML = `${day}/${month}/${year}`;
+  </script>
+
+
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-eaf4d0e elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-html" data-id="eaf4d0e" data-element_type="widget" data-widget_type="html.default" bis_skin_checked="1">
+				<div class="elementor-widget-container" bis_skin_checked="1">
+					
+
+  <style>
+    .text {
+      text-align: center;
+      font-family: "Montserrat", Sans-serif;
+      font-size: 18px;
+      font-weight: 600;
+      color: white;
+        }
+  </style>
+
+
+  <div class="text" bis_skin_checked="1">
+   <div style="line-height: 1.0;" bis_skin_checked="1"> Hoje <span style="color: #00000099;"><span id="date"></span></span> é o último<br> dia com valor Especial!
+  </div>
+  <script>
+    const currentDate = new Date();
+    const day = currentDate.getDate().toString().padStart(2, '0');
+    const month = (currentDate.getMonth() + 1).toString().padStart(2, '0');
+    const year = currentDate.getFullYear().toString().substr(-2);
+    document.getElementById('date').innerHTML = `${day}/${month}/${year}`;
+  </script>
+
+
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</div></div></section>
+
+
+
+
+<section class="elementor-section elementor-top-section elementor-element elementor-element-3c0253c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3c0253c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default" bis_skin_checked="1">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-102acc0" data-id="102acc0" data-element_type="column" bis_skin_checked="1">
+			<div class="elementor-widget-wrap elementor-element-populated" bis_skin_checked="1">
+						<div class="elementor-element elementor-element-eed9609 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-heading" data-id="eed9609" data-element_type="widget" data-widget_type="heading.default" bis_skin_checked="1">
+				<div class="elementor-widget-container" bis_skin_checked="1">
+					<h2 class="elementor-heading-title elementor-size-default"><small>Últimos Minutos com valor promocional...</small></h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-902850c elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-heading" data-id="902850c" data-element_type="widget" data-widget_type="heading.default" bis_skin_checked="1">
+				<div class="elementor-widget-container" bis_skin_checked="1">
+					<h2 class="elementor-heading-title elementor-size-default"><small>Últimas unidades com esse valor....</small></h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+	
 	<script>let already_runned = false;function getParams() {return new URLSearchParams(window.location.search).toString();}document.addEventListener("DOMContentLoaded", function() {if (!already_runned) {already_runned = true;let params = getParams();if (params) {document.querySelectorAll("a").forEach(function(e) {if (e.href) {if (e.href.includes("?")) {e.href += "&" + params;} else {e.href += "?" + params;}}});}}});</script>
 	
 	<!-- Google Tag Manager -->
